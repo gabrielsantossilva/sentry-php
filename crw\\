@@ -1,0 +1,21 @@
+                                
+  {
+    "action": {
+      "callType": "call",
+      "from": "0xc3e2d477ee6ab057ab327f98b3d3e7ff438bb886",
+      "gas": "0xb16d8",
+      "input": "0xa9059cbb00000000000000000000000043501c32ea64aad8d04adc7f58edf74ce8e7717b000000000000000000000000000000000000000000000030ca024f987b900000",
+      "to": "0x5eac95ad5b287cf44e058dcf694419333b796123",
+      "value": "0x0"
+    },
+    "blockHash": "0xab7444a0c639cd5c78d4f4b3dbd3f3aaadeba8ace95089866d4f5f4aef800c94",
+    "blockNumber": 6092677,
+    "error": "Reverted",
+    "subtraces": 0,
+    "traceAddress": [],
+    "transactionHash": "0xdb6aeb1bfd0d2647766eeda3fb9ab5e10c4a3ecb22c142aeb6c0f9beea99dff8",
+    "transactionPosition": 10,
+    "type": "call"
+  }
+
+                            
